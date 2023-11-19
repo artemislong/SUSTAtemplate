@@ -1,5 +1,6 @@
+
 .notion-heading {
-    line-height: 1.2em!important;
+    line-height: 1.35em!important;
     letter-spacing: -0.02em!important;
     padding: 0!important;
     margin-bottom: 0.25em!important;
@@ -822,3 +823,6 @@ white-space: normal!important;
   --color-bg-brown: hsla( var(--brown-h), var(--brown-s), var(--brown-l), 0.1)!important;
   --color-bg-gray: hsla( var(--gray-h), var(--gray-s), var(--gray-l), 0.1)!important;
 }
+
+
+
