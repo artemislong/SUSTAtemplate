@@ -198,7 +198,7 @@ h3 {
 
 
 .highlighted-background a{
-    padding: 1em 2em!important;
+    padding: 0.5em 1.5em!important;
     border: none!important;
     opacity: 1!important;
     border-radius: var(--callout-border-radii)!important;
